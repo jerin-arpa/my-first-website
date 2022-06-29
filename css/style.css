@@ -1,0 +1,43 @@
+table {
+    margin-bottom: 100px;
+}body{
+    font-family: 'Poppins', sans-serif;
+}
+.heading-text td{ 
+     padding: 5px;
+     padding-left: 50px;
+}
+.header-table{
+    margin-top: 100px;
+}
+.header-title{
+    font-size: 30px;
+    font-weight: 500;
+}
+.header-name{
+    font-size: 42px;
+    font-weight: 700;
+    color: rgb(226, 23, 101);
+}
+.btn{
+    background-color:rgb(226, 23, 101) ;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 7px;
+}
+.description{
+    width: 80%;
+}
+.latest-work td{
+    padding: 30px;
+}
+.latest-work img{
+    width: 380px;
+    height: 350px;
+}
+.title{
+    text-align: center;
+    font-size: 30px;
+    margin: 50px;
+}
